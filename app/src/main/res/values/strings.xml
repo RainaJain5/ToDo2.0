@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDo2.0</string>
+    <string name="login">LOGIN</string>
+    <string name="not_a_member">Not a Member?</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="register">USER REGISTRATION</string>
+    <string name="your_to_do_list"> <u>Your To-Do List</u></string>
+    <string name="enter_task">Enter New Task</string>
+    <string name="save">Save</string>
+    <string name="search_your_task_here">Search your task here</string>
+    <string name="user_profile">User Profile</string>
+    <string name="keep_me_logged_in">Keep me Logged in</string>
+</resources>
